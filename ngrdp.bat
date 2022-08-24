@@ -1,0 +1,2 @@
+TZUTIL /S "Venezuela Standard Time"
+"C:\Program Files\Google\Chrome\Application\chrome.exe" "https://www.youtube.com/channel/UC86cQgXRJevBmvawaMW6RHQ" "https://www.youtube.com/playlist?list=PLwdeAhM0tLpxllris2cQyuFjZoTXrx47i"
